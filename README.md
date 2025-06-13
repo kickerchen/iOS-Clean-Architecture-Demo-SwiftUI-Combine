@@ -4,7 +4,6 @@
 - The project is constructed with SwiftUI, Combine and CoreData.
 - The app allows user to view a given amount in a given currency converted into other currencies.
 
-
 ## Architecture
 
 The project has three main layers:
@@ -48,9 +47,12 @@ The project has three main layers:
 - Use cases testing
 - ViewModel testing
 
-
 ## Requirements
 
 - iOS 15.0+
 - Xcode 15.1+
 - Swift 5.9+
+
+## Screenshot
+
+<img src="https://github.com/user-attachments/assets/2b88aab5-5c17-4537-b15d-9953e1dd73a0" width="402" height="874"/>
