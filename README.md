@@ -1,4 +1,4 @@
-# iOS-Clean-Architecture-SwiftUI-Combine
+# iOS-Clean-Architecture-Demo-SwiftUI-Combine
 
 - The project uses a currency conversion app to demo Clean Architecture principles.
 - The project is constructed with SwiftUI, Combine and CoreData.
